@@ -1,0 +1,54 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PHP
+/vendor/
+/composer.lock
+
+# PHPUnit
+.phpunit.result.cache
+
+# Static analysis
+/phpstan-baseline.neon
+
+# Coverage
+coverage/
+coverage.xml
+.clover.xml
+
+# Logs
+*.log
+logs/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Cache
+cache/
+tmp/
+storage/
+bootstrap/cache/
+
+# Node
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.bak
+*.tmp
+*.temp
