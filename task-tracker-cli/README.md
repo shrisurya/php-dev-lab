@@ -2,7 +2,7 @@
 
 Task Tracker is a small PHP command line application for managing tasks. It stores tasks in a local `tasks.json` file and uses only PHP's native filesystem functions.
 
-## Project URL
+## project URL
 
 https://github.com/shrisurya/php-dev-lab/tree/master/task-tracker-cli
 
